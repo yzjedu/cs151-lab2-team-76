@@ -1,3 +1,8 @@
-# Enter Code here
-# Read the README - under files on left
-# Delete these three lines before submitting
+# Programmers:
+# Course:  CS151, Zelalem Yalew
+# Due Date: 9/25/2024
+# Lab Assignment: 2
+# Problem Statement:
+# Data In:
+# Data Out:
+# Credits:
