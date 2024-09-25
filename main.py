@@ -23,7 +23,7 @@ current_population=float(input("What is the current population?:"))
 years_in_future=float(input("What is the number of years in future?:"))
 
 #calculation for population change
-population_change= (seconds_per_year/seconds_between_birth + seconds_per_year/seconds_between_immigration - seconds_per_year/seconds_between_death)*years_in_future
+population_change = (seconds_per_year/seconds_between_birth + seconds_per_year/seconds_between_immigration - seconds_per_year/seconds_between_death)*years_in_future
 
 
 #calculation for future population
