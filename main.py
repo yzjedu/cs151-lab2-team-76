@@ -2,10 +2,10 @@
 # Course:  CS151, Zelalem Yalew
 # Due Date: 9/25/2024
 # Lab Assignment: 2
-# Problem Statement:
-# Data In:
-# Data Out:
-# Credits:
+# Problem Statement: This program is designed to calculate the population of a country after a number of years.
+# Data In: Number of Years, seconds between birth, seconds between death, seconds between immigration, and current population.
+# Data Out: Number of future population, and clear indication on whether population has increased.
+# Credits: Zybooks
 
 #initial print prompt explaining program to user
 print("Hello! This program will calculate the future population of the US after X amount of years.\nFor this program, "
