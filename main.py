@@ -1,4 +1,4 @@
-# Programmers:
+# Programmers: Antonio Dueno, Cooper Nazar
 # Course:  CS151, Zelalem Yalew
 # Due Date: 9/25/2024
 # Lab Assignment: 2
