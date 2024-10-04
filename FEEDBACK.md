@@ -21,13 +21,12 @@
 ### Open Test
 |Result |Description|
 |--------------|-----------------------------------------|
-|**-NO**| The algorithm matches the code   |
-|**-NO**| There is a block of introductory comments at the top |  
+|**-YES**| The algorithm matches the code   |
+|**-YES**| There is a block of introductory comments at the top |  
 |**YES-**| Purpose of the program is stated below or above intro comments as a comment  |
 |**YES-**| There are comments in the code (do not need to determine if they are good)|
 |**YES-**| Nothing is typecast to an int during calculation (fine at end for output or to typecast input as int)|
 
 ### Comments on the grading
-- The algorithm in the document and the code does not  much. Hence, a need for revision and resubmission. 
-- The intro comments are bad, the team name is bad. I dononet know whose code is this. I must figure it out during the final. 
-### Grade: R
+
+### Grade: E
